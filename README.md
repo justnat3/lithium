@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a rust x86_64 kernel that I building purely for fun. Its not really meant to be 
+This is a rust x86_64 kernel that I am building purely for fun. Its not really meant to be 
 anything too exciting. I have always been quite interested in digging through kernel internals
 so I decided to make my own for experimentation.
 
